@@ -1,11 +1,7 @@
 <div align="center">
 <h1 align="center"> Hi there 👋 I'm Eva López </h1>
 </div>
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 <!--- About me -->
 <div id="user-content-toc">
   <ul align="center">
@@ -15,9 +11,9 @@
 
 - 📲 Cross-platform application developer.
 - 🔭 I am currently training to gain more programming experience. 
-- 🌱 I’m currently learning Android, Python and game development on Unity.
+- 🌱 I’m currently learning software testing and cointinue learning about software development languages and frameworks.
 - 👯 I am looking to work in a company that makes me grow as a programmer.
-- 🤔 I am looking to learn more about mobile and web application development.
+- 🤔 I am looking to learn more to be a fullStack developer.
 - 📫 My email: se2688lm@gmail.com 
 - ⚡ My LinkedIn: https://www.linkedin.com/in/eva-l%C3%B3pez-m%C3%A1rquez-11554426a/
 <br>
