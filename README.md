@@ -15,7 +15,7 @@
 - 👯 I am looking to work in a company that makes me grow as a programmer.
 - 🤔 I am looking to learn more to be a fullStack developer.
 - 📫 My email: se2688lm@gmail.com 
-- ⚡ My LinkedIn: https://www.linkedin.com/in/eva-l%C3%B3pez-m%C3%A1rquez-11554426a/
+- ⚡ My LinkedIn: https://www.linkedin.com/in/eva-lopez-marquez/
 <br>
 
 <!--h1 without bottom border-->
