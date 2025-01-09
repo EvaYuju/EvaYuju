@@ -10,7 +10,7 @@
 </div>
 
 - 📲 Cross-platform application developer.
-- 🔭 I am currently training to gain more programming experience. 
+- 🔭 I am currently training to gain more programming experience about Java, JPA and mobile application development. 
 - 🌱 I’m currently learning software testing and continue learning about software development languages and frameworks.
 - 👯 I am looking to work in a company that makes me grow as a programmer.
 - 🤔 I am looking to learn more to be a fullStack developer.
