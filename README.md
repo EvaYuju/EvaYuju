@@ -28,7 +28,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,js,html,css,angular,java,cs,swift,kotlin,flutter,firebase,materialui,mongodb,mysql,nodejs,py,php,django,laravel,maven,git,github,idea,eclipse,unity,visualstudio,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,js,html,css,selenium,angular,java,cs,swift,kotlin,flutter,firebase,materialui,mongodb,mysql,nodejs,py,php,django,laravel,maven,git,github,idea,eclipse,unity,visualstudio,vscode&perline=10" />
   </a>
 </p>
 
