@@ -10,10 +10,10 @@
 </div>
 
 - 📲 Cross-platform application developer.
-- 🔭 I am currently training to gain more programming experience about PHP, Laravel, Java & Spring boot applications, and mobile application development with Android. 
-- 🌱 I’m currently learning software testing and continue learning about software development languages and frameworks.
-- 👯 I am working with Wordpress making webs from Kit Digital for enterprises.
-- 🤔 I am looking to learn more to be a fullStack developer.
+- 🔭 I am currently training to gain more programming experience about Microservices, Java & Spring boot applications, and mobile application development with Android. 
+- 🌱 I’m learning too about RV and RA with Unity game development and programming with c# and recently learning software testing and continue studiying about software development languages and frameworks.
+- 👯 My last job was with Wordpress making webs from Kit Digital for enterprises. I love front end too!
+- 🤔 Defitinely looking to learn more to be a fullStack developer.
 - 📫 My email: 3valopezmarquez@gmail.com 
 - ⚡ My LinkedIn: https://www.linkedin.com/in/eva-lopez-marquez/
 <br>
